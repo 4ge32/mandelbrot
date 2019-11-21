@@ -1,0 +1,2 @@
+all:
+	rustc mandel.rs
